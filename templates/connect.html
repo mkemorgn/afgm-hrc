@@ -2,6 +2,7 @@
 
 {% block content %}
 <h1 class="title">
-  A Few Good Men- Hampton Roads Chapter.
+  {{ section.title }}
 </h1>
+{{ section.content | safe }}
 {% endblock content %}
