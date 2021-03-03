@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://afgm-hrc.net"
+base_url = "https://603fdc0c68f8470008659a25--unruffled-bohr-4ffed8.netlify.app/"
 generate_rss = true
 compile_sass = true
 
