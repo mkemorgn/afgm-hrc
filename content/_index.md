@@ -5,8 +5,10 @@ sort_by = "date"
 
 **Why AFGM?**  
 <br>
-afgm is the best.
-
+AFGM mentoring program provides young men with experienced mentors who develop a
+bond with mentees and offer support, guidance, and oppurtunities to help establish
+and accomplish life goals.  
+<br>
 **Our Work**  
 <br>
 We do a bunch of work.
