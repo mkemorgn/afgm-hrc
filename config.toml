@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://afgm-hrc.org/"
+base_url = "https://www.afgm-hrc.org/"
 generate_rss = true
 compile_sass = true
 
