@@ -21,7 +21,7 @@ Finally, a quick personal reflection and an ask: I questioned myself whether I w
 <br>
 Dr. Asha Bolton, Lawrence Duke, Eric Folks, William Gregory Holmes, Sterrick Lind, James Smith, Robert Wilson  
 <br>
-**Exectutive board members**  
+**Executive board members**  
 <br>
 Vice-President William Greg Holmes, Secretary Dr. Asha Bolton, Treasurer James Smith  
 <br>

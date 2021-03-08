@@ -9,7 +9,9 @@ template = "getinvolved.html"
 <br>
 [Become a mentor](https://afgmentoring.dm.networkforgood.com/forms/mentor-volunteer-form)  
 <br>
-Parents and/or Guardians, are you looking are you in need of a mentor for your son? Click [here](https://afgmentoring.dm.networkforgood.com/forms/mentee-application) and submit an application today!  
+Parents and/or Guardians, are you looking or are you in need of a mentor for your son?  
+<br>
+Click [here](https://afgmentoring.dm.networkforgood.com/forms/mentee-application) and submit an application today!  
 <br>
 **Opportunities to support**  
 <br>
