@@ -23,6 +23,6 @@ clean_blog_menu = [
 clean_blog_social = [
     {url = "https://twitter.com/AFGMentoring", icon="fab fa-twitter"},
     {url = "https://www.facebook.com/AFGMentoring/", icon="fab fa-facebook"},
-    {url = "https://www.linkedin.com/in/michael-morgan-a67a701a8/", icon="fab fa-linkedin"},
+    {url = "https://www.linkedin.com/groups/9039120/", icon="fab fa-linkedin"},
     {url = "https://www.instagram.com/afgmentoring/", icon="fab fa-instagram"}
 ]
