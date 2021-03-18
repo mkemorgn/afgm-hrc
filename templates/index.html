@@ -25,7 +25,6 @@
 
   <!-- Custom styles for this template -->
   <link rel="stylesheet" href="{{ get_url(path="clean-blog.css", trailing_slash=false) }}">
-
 </head>
 <body>
 
@@ -47,6 +46,12 @@
               href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">{{ item.name }}</a>
           </li>
           {% endfor %}
+          <li class="nav-item">
+            <a class="nav-link" onmouseover="myFunction()">Chapters <i class="fa fa-caret-down"></i></a>
+              <div id="myDropdown" class="dropdown-content">
+                <a onclick="openMain()" style="color:black !important; cursor:pointer">AFGM Home</a>
+              </div>
+          </li>
         </ul>
       </div>
     </div>
@@ -115,6 +120,32 @@
 
   <!--- Additional scripts -->
   {% block extrascripts %}
+  <script>
+    /* When the user clicks on the button,
+  toggle between hiding and showing the dropdown content */
+    
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+      document.getElementById("dropdown-content").classList.toggle("show");
+    }
+
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+      if (!event.target.matches('.nav-link')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+    function openMain() {
+      window.open("https://www.afgmentoring.net", "_blank")
+    }
+  </script>
   {% endblock extrasripts %}
 </body>
 
